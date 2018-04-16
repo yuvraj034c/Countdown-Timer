@@ -1,0 +1,36 @@
+#currenttime{
+	text-align:center;
+	font-size: 100px;
+	padding: 15px;
+	margin-bottom: 50px;
+}
+.main-body{
+	height: 200px;
+	width: 500px;
+	margin: 100px auto;
+	border: 1px solid #c8cace;
+	border-radius: 10px;
+	box-shadow: 0 2px #dbdde0;
+}
+.upper{
+	text-align: center;
+	margin: 0 auto;
+	width: 498px;
+	height: 80px;
+	background-color: #a7e6f2;
+	border-radius: 10px 10px 2px 2px;
+	border-bottom: 1px solid #a9a9aa ;
+}
+#timeIn{
+	padding: 8px;
+	border:none;
+	border: 1px solid #a9a9aa;
+	border-radius: 5px;
+	margin: 17px;
+}
+.lower{
+	font-size: 50px;
+	text-align: center;
+	padding: 15px;
+}
+
